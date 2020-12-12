@@ -1,0 +1,157 @@
+/* nav div left css */
+
+#nav-bar {
+    background-color: rgb(0, 26, 77);
+    height: 170px;
+}
+
+.oxford-img {
+    height: 110px;
+    margin: 30px 0 0 50px;
+    
+}
+
+.select {
+    background-color: rgb(0, 26, 77);
+    color: rgb(204, 230, 255);
+    font-size: large;
+    border: none;
+    margin-left: 20px;
+    height: 45px;
+}
+
+#img-div {
+    display: inline-block;
+}
+
+#select-option-span {
+    position: relative;
+    top: 17px;
+    left: 25px;
+}
+
+select:hover {
+    background-color: rgb(77, 121, 255);
+}
+/* nav div left css */
+
+
+
+
+
+
+/* nav-div-child css */
+#nav-div-child{
+    display: inline-block;
+    margin-left: 70px;
+    position: relative;
+    bottom: -10px;
+}
+
+.nav-div-child-col {
+    background-color: rgb(0, 40, 77);
+    color: rgb(204, 230, 255);
+    height: 40px;
+    border: none;
+    margin-right: -5px;
+    padding-left: 10px;
+}
+
+.search {
+    height: 40px;
+    width: 130px;
+    background-color: rgb(0, 51, 102);
+    border: none;
+}
+
+.anchor-div {
+    position: relative;
+    top: 40px;
+}
+
+.anchor-1 {
+    color: rgb(204, 230, 255);
+    font-size: 14px;
+    margin-left: 10px;
+}
+/* nav-div-child css */
+
+
+
+
+
+
+/* News-1 */
+#news-1 {
+    margin-top: 20px;
+    height: 380px;
+}
+
+#new-h>h1 {
+    display: inline-block;
+    margin-right: 30px;
+    margin-left: 30px;
+    font-weight: bolder;
+}
+
+.img-news {
+    width: 300px;
+    margin-left: 20px;
+}
+
+.fig {
+    display: inline-block;
+}
+
+.figc {
+    margin-left: 21px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+#events-h {
+    display: inline-block;
+    position: relative;
+    left: 1000px;
+    bottom: 350px;
+    font-weight: bolder;
+} 
+
+.event-p {
+    width: 280px;
+    text-align: justify;
+} 
+/* News-1 End*/
+
+
+
+/* study div */
+#study-div {
+    background-color: lightgray;
+}
+
+.study-h {
+    font-weight: bolder;
+    margin-left: 30px;
+    padding-top: 20px;
+}
+
+.study-img {
+    width: 300px;
+    margin-left: 20px;
+}
+/* study div end */
+
+
+
+/* footer div */
+.footer-p {
+    display: inline-block;
+    margin-top: 18px;
+    margin-left: 20px;
+}
+
+#footer-div {
+    background-color: rgb(0, 26, 77);
+    color: white;
+}
